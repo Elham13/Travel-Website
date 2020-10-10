@@ -25,14 +25,6 @@ body{
     overflow-x: hidden;
 }
 
-/* Header */
-.header{
-    height: 3vh;
-    display: flex;
-    position: fixed;
-    
-}   
-/* Header */
 
 /* nav */
 nav{
@@ -43,7 +35,7 @@ nav{
     display: flex;
     position: fixed;
     z-index: 10;
-    top: 3vh;
+    top: 0;
     align-items: center;
 }
 
